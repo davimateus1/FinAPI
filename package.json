@@ -5,10 +5,14 @@
   "repository": "git@github.com:davimateus1/FinAPI.git",
   "author": "Davi Mateus <davi.2020109493@unicap.br>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
   }
 }
