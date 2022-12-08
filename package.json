@@ -1,0 +1,14 @@
+{
+  "name": "FinAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:davimateus1/FinAPI.git",
+  "author": "Davi Mateus <davi.2020109493@unicap.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
